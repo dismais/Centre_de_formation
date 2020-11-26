@@ -2,7 +2,7 @@
 
 # **PROJET N°2 : conception réseau de centre de formation**
 
-
+![](/Class/ClassDiagram.jpg)
 ---
 
 **participant.e.s :**
@@ -43,7 +43,7 @@
 
 ### Diagramme de classe
 ---
-- > [Diagramme de classes du centre de formation](/)
+- > [Diagramme de classes du centre de formation](/Class/ClassDiagram.jpg)
 
 ---
 
@@ -51,8 +51,8 @@
 ### Diagramme de séquence
 ---
 - > [Diagramme de séquence : Assigner le projet a une promo](/)
-- >  [Diagramme de séquence : ](/)
-- >   [Diagramme de séquence :](/)
+- > [Diagramme de séquence : ](/)
+- > [Diagramme de séquence :](/)
 
         
 ---
