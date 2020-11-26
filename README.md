@@ -9,7 +9,7 @@
 
 *  Abdelatif El-Mahdi
 *  Hamdane Habiba
-*  Bensadoune Amel 
+*  Bensadoun Amel 
 *  Lauren Sarah 
 
 ---
