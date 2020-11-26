@@ -15,29 +15,22 @@
 ---
 ## Organisation du projet
 1. Intro !
----
 2. Diagrammes de use case
----
 3. Diagrammes d'activité
----
 4. Diagrammes de classe
----
 5. Diagramme de séquence
 ---
 ### Diagramme de use case 
+---
 > [Diagramme USECASE direct.eur.trice](/UseCases/2.jpg)
----
 > [Diagramme USECASE format.eur.rice](/UseCases/3.jpg)
----
 > [Diagramme USECASE apprenant.e](/UseCases/4.jpg)
----
 > [Diagramme USECASE chargé.e de promo](/UseCases/5.jpg)
----
 > [Diagramme USECASE candidat.e](/UseCases/6.jpg)
----
 > [Diagramme USECASE user](/UseCases/1.jpg)
 ---
 ### Diagramme d'activité
+---
 > [Diagramme d'activité s'inscrire](/)
 > [Diagramme d'activité se connecter](/)
 > [Diagramme d'activité candidater](/)
@@ -45,12 +38,14 @@
 ---
 
 ### Diagramme de classe
+---
 > [Diagramme de classes du centre de formation](/)
 
 ---
 
 
 ### Diagramme de séquence
+---
 > [Diagramme de séquence : Assigner le projet a une promo](/)
 >  [Diagramme de séquence : ](/)
 >   [Diagramme de séquence :](/)
@@ -59,6 +54,7 @@
 
 # intro 
 ## Analyse des roles des participants
+---
 
 - Un.e direct.eur.trice pourra : 
     - Créer un nouveau centre de formation
@@ -103,3 +99,4 @@
 - Un.e user pourra : 
 
     - S'authentifier selon son rôle
+        
