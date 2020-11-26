@@ -57,31 +57,35 @@
 
 # intro 
 ## Analyse des roles des participants
----
 
+---
 ### Un.e direct.eur.trice pourra : 
+---
     - Créer un nouveau centre de formation
     - Supprimer un centre de formation
     - Consulter un centre de formation
     - Modifier un centre de formation
     - Assigner un centre de formation
-    
 
+---
 ### Un.e format.eur.rice pourra : 
+---
     - Créer un projet
     - Corriger un projet
     - Assigner un projet à une promo
-    
-
+ 
+---
 ### Un.e apprenant.e pourra : 
+---
     - Consulter un projet
     - Proposer un rendu
     - Consulter sa progression 
     - Rédiger un dossier professionnel
     - Rédiger un dossier projet 
 
-
+---
 ### Un.e chargé.e de promo pourra : 
+---
     - Créer une promotion
     - Valider une candidature
     - Assigner un.e format.eur.rice à une promotion
@@ -92,17 +96,16 @@
     - Gérer l'agenda
     - Inviter les nouveaux apprenants dans une promo
     
-
+---
 ### Un candidat.e pourra : 
+---
     - Consulter les formations
     - Sélectionner une formation 
     - Candidater
     
-
+---
 ### Un.e user pourra : 
+---
 
-    - S'authentifier selon son rôle
-    
-
-        
+   - S'authentifier selon son rôle      
 
