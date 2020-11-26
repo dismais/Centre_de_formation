@@ -38,8 +38,8 @@
 ---
 ### Diagramme d'activité
 ---
-- > [Diagramme d'activité s'inscrire](/Activity/ActivityActivityActivity1.jpg)
-- > [Diagramme d'activité se connecter](/Activity/ActivityActivity2.jpg)
+- > [Diagramme d'activité s'inscrire](/Activity/ActivityActivity1.jpg)
+- > [Diagramme d'activité se connecter](/Activity/Activity2.jpg)
 - > [Diagramme d'activité candidater](/Activity/Activity3.jpg)
 - > [Diagramme d'activité assigner formateur a une formation](/Activity/Activity4.jpg)
 
