@@ -54,9 +54,9 @@
 
 ### Diagramme de séquence
 ---
-- > [Diagramme de séquence : Assigner le projet a une promo](/)
-- > [Diagramme de séquence : ](/)
-- > [Diagramme de séquence :](/)
+- > [Diagramme de séquence : Assigner le projet a une promo](/Seq/1.jpg)
+- > [Diagramme de séquence : ](/Seq/2.jpg)
+- > [Diagramme de séquence :](/Seq/3.jpg)
 
         
 ---
