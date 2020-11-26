@@ -16,9 +16,13 @@
 ## Organisation du projet
  
 1. Intro !
+
 2. Diagrammes de use case
+
 3. Diagrammes d'activité
+
 4. Diagrammes de classe
+
 5. Diagramme de séquence
 
 
