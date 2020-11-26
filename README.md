@@ -18,7 +18,7 @@
 1. Intro !
 
 2. Diagrammes de use case
-| <img src="UseCases/1.jpg" width="250"> | <img src="UseCases/2.jpg" width="250">|  <img src="UseCases/3.jpg" width="250">|
+
 3. Diagrammes d'activité
 
 4. Diagrammes de classe
