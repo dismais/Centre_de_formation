@@ -23,13 +23,43 @@
 5. Diagramme de séquence
 
 ---
+## Diagramme de use case 
+---
+- > [Diagramme USECASE direct.eur.trice](/UseCases/2.jpg)
+- > [Diagramme USECASE format.eur.rice](/UseCases/3.jpg)
+- > [Diagramme USECASE apprenant.e](/UseCases/4.jpg)
+- > [Diagramme USECASE chargé.e de promo](/UseCases/5.jpg)
+- > [Diagramme USECASE candidat.e](/UseCases/6.jpg)
+- > [Diagramme USECASE user](/UseCases/1.jpg)
+---
+## Diagramme d'activité
+---
+- > [Diagramme d'activité s'inscrire](/Activity/1.jpg)
+- > [Diagramme d'activité se connecter](/Activity/2.jpg)
+- > [Diagramme d'activité candidater](/Activity/3.jpg)
+- > [Diagramme d'activité assigner formateur a une formation](/Activity/4.jpg)
+
+---
+
+## Diagramme de classe
+---
+- > [Diagramme de classes du centre de formation](/)
+
+---
+
+
+## Diagramme de séquence
+---
+- > [Diagramme de séquence : Assigner le projet a une promo](/)
+- >  [Diagramme de séquence : ](/)
+- >   [Diagramme de séquence :](/)
 ---
 
 # intro 
 ## Analyse des roles des participants
 ---
 
-- Un.e direct.eur.trice pourra : 
+### Un.e direct.eur.trice pourra : 
     - Créer un nouveau centre de formation
     - Supprimer un centre de formation
     - Consulter un centre de formation
@@ -37,13 +67,13 @@
     - Assigner un centre de formation
     
 
-- Un.e format.eur.rice pourra : 
+### Un.e format.eur.rice pourra : 
     - Créer un projet
     - Corriger un projet
     - Assigner un projet à une promo
     
 
-- Un.e apprenant.e pourra : 
+### Un.e apprenant.e pourra : 
     - Consulter un projet
     - Proposer un rendu
     - Consulter sa progression 
@@ -51,7 +81,7 @@
     - Rédiger un dossier projet 
 
 
-- Un.e chargé.e de promo pourra : 
+### Un.e chargé.e de promo pourra : 
     - Créer une promotion
     - Valider une candidature
     - Assigner un.e format.eur.rice à une promotion
@@ -63,46 +93,16 @@
     - Inviter les nouveaux apprenants dans une promo
     
 
-- Un candidat.e pourra : 
+### Un candidat.e pourra : 
     - Consulter les formations
     - Sélectionner une formation 
     - Candidater
     
 
-- Un.e user pourra : 
+### Un.e user pourra : 
 
     - S'authentifier selon son rôle
----
-### Diagramme de use case 
----
-- > [Diagramme USECASE direct.eur.trice](/UseCases/2.jpg)
-- > [Diagramme USECASE format.eur.rice](/UseCases/3.jpg)
-- > [Diagramme USECASE apprenant.e](/UseCases/4.jpg)
-- > [Diagramme USECASE chargé.e de promo](/UseCases/5.jpg)
-- > [Diagramme USECASE candidat.e](/UseCases/6.jpg)
-- > [Diagramme USECASE user](/UseCases/1.jpg)
----
-### Diagramme d'activité
----
-- > [Diagramme d'activité s'inscrire](/Activity/1.jpg)
-- > [Diagramme d'activité se connecter](/Activity/2.jpg)
-- > [Diagramme d'activité candidater](/Activity/3.jpg)
-- > [Diagramme d'activité assigner formateur a une formation](/Activity/4.jpg)
-
----
-
-### Diagramme de classe
----
-- > [Diagramme de classes du centre de formation](/)
-
----
-
-
-### Diagramme de séquence
----
-- > [Diagramme de séquence : Assigner le projet a une promo](/)
-- >  [Diagramme de séquence : ](/)
-- >   [Diagramme de séquence :](/)
+    
 
         
 
