@@ -28,6 +28,7 @@
 ---
 
 ### Un.e direct.eur.trice pourra : 
+![](/UseCases/2.jpg)
 - Créer un nouveau centre de formation
 - Supprimer un centre de formation
 - Consulter un centre de formation
