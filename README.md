@@ -1,5 +1,7 @@
 
 
+
+
 # **PROJET N°2 : conception réseau de centre de formation**
 
 
@@ -82,9 +84,10 @@
 ---
 ### Diagramme d'activité
 ---
-- > [Diagramme d'activité s'inscrire](/)
-- > [Diagramme d'activité se connecter](/)
-- > [Diagramme d'activité candidater](/)
+- > [Diagramme d'activité s'inscrire](/Activity/1.jpg)
+- > [Diagramme d'activité se connecter](/Activity/2.jpg)
+- > [Diagramme d'activité candidater](/Activity/3.jpg)
+- > [Diagramme d'activité assigner formateur a une formation](/Activity/4.jpg)
 
 ---
 
@@ -102,3 +105,4 @@
 - >   [Diagramme de séquence :](/)
 
         
+
