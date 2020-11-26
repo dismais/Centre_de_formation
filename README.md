@@ -14,64 +14,11 @@
 
 ---
 ## Organisation du projet
-1. Intro !
+**1. Intro !
 2. Diagrammes de use case
 3. Diagrammes d'activité
 4. Diagrammes de classe
-5. Diagramme de séquence
-
----
----
-
-# intro 
-## Analyse des roles des participants
----
-
-### Un.e direct.eur.trice pourra : 
-![](/UseCases/2.jpg)
-- Créer un nouveau centre de formation
-- Supprimer un centre de formation
-- Consulter un centre de formation
-- Modifier un centre de formation
-- Assigner un centre de formation
-    
-
-### Un.e format.eur.rice pourra : 
-- Créer un projet
-- Corriger un projet
-- Assigner un projet à une promo
-    
-
-### Un.e apprenant.e pourra : 
-- Consulter un projet
-- Proposer un rendu
-- Consulter sa progression 
-- - Rédiger un dossier professionnel
-- Rédiger un dossier projet 
-
-
-### Un.e chargé.e de promo pourra : 
-- Créer une promotion
-- Valider une candidature
-- Assigner un.e format.eur.rice à une promotion
-- CRUD apprenant.e
-- CRUD format.eur.rice
-- Gérer la promotion
-- Gérer les retards / absences
-- Gérer l'agenda
-- Inviter les nouveaux apprenants dans une promo
-    
-
-### Un candidat.e pourra : 
-- Consulter les formations
-- Sélectionner une formation 
-- Candidater
-    
-
-### Un.e user pourra : 
-
-- S'authentifier selon son rôle
-
+5. Diagramme de séquence**
 
 ---
 ### Diagramme de use case 
@@ -106,3 +53,65 @@
 - >   [Diagramme de séquence :](/)
 
         
+---
+
+# intro 
+## Analyse des roles des participants
+---
+
+
+
+### Un.e direct.eur.trice pourra : 
+
+- Créer un nouveau centre de formation
+- Supprimer un centre de formation
+- Consulter un centre de formation
+- Modifier un centre de formation
+- Assigner un centre de formation
+
+![](/UseCases/2.jpg)
+
+### Un.e format.eur.rice pourra : 
+- Créer un projet
+- Corriger un projet
+- Assigner un projet à une promo
+
+![](/UseCases/3.jpg)
+
+### Un.e apprenant.e pourra : 
+- Consulter un projet
+- Proposer un rendu
+- Consulter sa progression 
+- Rédiger un dossier professionnel
+- Rédiger un dossier projet 
+
+![](/UseCases/4.jpg)
+
+### Un.e chargé.e de promo pourra : 
+- Créer une promotion
+- Valider une candidature
+- Assigner un.e format.eur.rice à une promotion
+- CRUD apprenant.e
+- CRUD format.eur.rice
+- Gérer la promotion
+- Gérer les retards / absences
+- Gérer l'agenda
+- Inviter les nouveaux apprenants dans une promo
+    
+![](/UseCases/5.jpg)
+
+### Un candidat.e pourra : 
+- Consulter les formations
+- Sélectionner une formation 
+- Candidater
+
+![](/UseCases/6.jpg)
+
+### Un.e user pourra : 
+
+- S'authentifier selon son rôle
+
+![](/UseCases/1.jpg)
+
+
+
