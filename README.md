@@ -57,7 +57,7 @@
 - > [Diagramme d'activité candidater](/Activity/Activity3.jpg)
 - > [Diagramme d'activité assigner formateur a une formation](/Activity/Activity4.jpg)
 
-![](/Activity/Activity1.jpg)
+![](/Activity/Activity2.jpg)
 
 ---
 
