@@ -46,7 +46,7 @@
 - > [Use case écrit: Se connecter](/Written_usecase/2.jpg)
 - > [Use case écrit: Valider une candidature](/Written_usecase/3.jpg)
 
-Exemple : 
+
 ![](Written_usecase/1.jpg)
 
 ---
