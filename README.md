@@ -54,9 +54,9 @@
 
 ### Diagramme de séquence
 ---
-- > [Diagramme de séquence : Assigner le projet a une promo](/Seq/1.jpg)
-- > [Diagramme de séquence : ](/Seq/2.jpg)
-- > [Diagramme de séquence :](/Seq/3.jpg)
+- > [Diagramme de séquence : Assigner le projet a une promo](/Seq/2.jpg)
+- > [Diagramme de séquence : Assigner un CP a un centre](/Seq/1.jpg)
+- > [Diagramme de séquence : Créer un projet](/Seq/3.jpg)
 
         
 ---
