@@ -19,11 +19,13 @@
 
 2. Diagrammes de use case
 
-3. Diagrammes d'activité
+3. Use cases écrits 
 
-4. Diagrammes de classe
+4. Diagrammes d'activité
 
-5. Diagramme de séquence
+5. Diagrammes de classe
+
+6. Diagramme de séquence
 
 
 ---
@@ -35,6 +37,15 @@
 - > [Diagramme USECASE chargé.e de promo](/UseCases/5.jpg)
 - > [Diagramme USECASE candidat.e](/UseCases/6.jpg)
 - > [Diagramme USECASE user](/UseCases/1.jpg)
+
+---
+### Use cases écrits 
+---
+
+- > [Use case écrit: Candidater](/Written_usecase/1.jpg)
+- > [Use case écrit: Se connecter](/Written_usecase/2.jpg)
+- > [Use case écrit: Valider une candidature](/Written_usecase/3.jpg)
+
 ---
 ### Diagramme d'activité
 ---
