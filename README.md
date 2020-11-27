@@ -75,7 +75,7 @@
 - > [Diagramme de séquence : Créer un projet](/Seq/3.jpg)
 
 
-![](/Seq/3.jpg)
+![](/Seq/2.jpg)
         
 ---
 
