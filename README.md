@@ -46,6 +46,9 @@
 - > [Use case écrit: Se connecter](/Written_usecase/2.jpg)
 - > [Use case écrit: Valider une candidature](/Written_usecase/3.jpg)
 
+Exemple : 
+![](Written_usecase/1.jpg)
+
 ---
 ### Diagramme d'activité
 ---
@@ -53,6 +56,8 @@
 - > [Diagramme d'activité se connecter](/Activity/Activity2.jpg)
 - > [Diagramme d'activité candidater](/Activity/Activity3.jpg)
 - > [Diagramme d'activité assigner formateur a une formation](/Activity/Activity4.jpg)
+
+![](/Activity/Activity1.jpg)
 
 ---
 
@@ -69,6 +74,8 @@
 - > [Diagramme de séquence : Assigner un CP a un centre](/Seq/1.jpg)
 - > [Diagramme de séquence : Créer un projet](/Seq/3.jpg)
 
+
+![](/Seq/3.jpg)
         
 ---
 
