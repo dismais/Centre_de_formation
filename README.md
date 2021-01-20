@@ -1,5 +1,5 @@
 
-## [ - maquette fonctionelle - ](/Centre_de_formation/maquetteCF.pdf)
+## [ - maquette fonctionelle - ](/maquetteCF.pdf)
 
 # **PROJET N°2 : conception réseau de centre de formation**
 
